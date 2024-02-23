@@ -1,4 +1,4 @@
-# Twitter Profanity Degree
+# Quiz Maker (Google Forms API)
 
 Convert an Excel of the given format to a google forms quiz. 
 
