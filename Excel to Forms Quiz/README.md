@@ -1,9 +1,11 @@
 # Twitter Profanity Degree
 
-Check the profanity level of tweets. The project uses a sample profanity.csv & tweets.csv file. 
+Convert an Excel of the given format to a google forms quiz. 
 
-## Libraries
-- Nltk
+| Question                           | Option 1    | Option 2    | Option 3    | Option 4    | Correct Answer |
+|-----------------------------------|-------------|-------------|-------------|-------------|----------------|
+|                                   |             |             |             |             |                |
+
 
 ### Installation
 
